@@ -75,7 +75,7 @@
             ]
         },
         {
-            "dinoType": "/DinoOverhaulX/Dinos/Herbivores/Archelon_Character_BP_ASA_DOX.Archelon_Character_BP_ASA_DOX",
+            "dinoType": "/Game/Mods/DinoOverhaulX/Dinos/Herbivores/Archelon_Character_BP_ASA_DOX.Archelon_Character_BP_ASA_DOX_C",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -160,7 +160,7 @@
             ]
         },
         {
-            "dinoType": "/Game/DinoOverhaulX/Dinos/Aberrant/Achatina_Character_BP_Aberrant_DOX.Achatina_Character_BP_Aberrant_DOX",
+            "dinoType": "/Game/Mods/DinoOverhaulX/Dinos/Aberrant/Achatina_Character_BP_Aberrant_DOX.Achatina_Character_BP_Aberrant_DOX_C",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -449,7 +449,7 @@
             ]
         },
         {
-            "dinoType": "Game/Mods/DinoOverhaulX/Dinos/Herbivores/DungBeetle_Character_BP_DOX.DungBeetle_Character_BP_DOX_C",
+            "dinoType": "/Game/Mods/DinoOverhaulX/Dinos/Herbivores/DungBeetle_Character_BP_DOX.DungBeetle_Character_BP_DOX_C",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -535,7 +535,7 @@
             ]
         },
         {
-            "dinoType": "Game/Mods/DinoOverhaulX/Dinos/Aberrant/DungBeetle_Character_BP_Aberrant_DOX.DungBeetle_Character_BP_Aberrant_DOX_C",
+            "dinoType": "/Game/Mods/DinoOverhaulX/Dinos/Aberrant/DungBeetle_Character_BP_Aberrant_DOX.DungBeetle_Character_BP_Aberrant_DOX_C",
             "chanceToProduce": 1.0,
             "produces": [
                 {
