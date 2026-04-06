@@ -75,7 +75,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/DinoOverhaulX/Dinos/Herbivores/Archelon_Character_BP_ASA_DOX.Archelon_Character_BP_ASA_DOX_C",
+            "dinoType": "/Game/Mods/DinoOverhaulX/Dinos/Herbivores/Achatina_Character_BP_DOX.Achatina_Character_BP_DOX",
             "chanceToProduce": 1.0,
             "produces": [
                 {
