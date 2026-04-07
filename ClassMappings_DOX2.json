@@ -13,8 +13,6 @@
       "toClass": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C"
     },
     {
-  "dinoMappings": [
-    {
       "fromClass": "/Game/Mods/DinoOverhaulX/Dinos/Herbivores/Archelon_Character_BP_ASA_DOX.Archelon_Character_BP_ASA_DOX_C",
       "toClass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA_C"
     },
