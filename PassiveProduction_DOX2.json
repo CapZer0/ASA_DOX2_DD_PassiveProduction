@@ -34,6 +34,7 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C'",
+            "chanceToProduce": 1.0,
             "produces": [
                {
                    "intervalSeconds": 30,
