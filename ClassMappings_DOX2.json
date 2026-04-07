@@ -1,0 +1,34 @@
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/Game/Mods/DinoOverhaulX/Dinos/Predators/Archa_Character_BP_DOX.Archa_Character_BP_DOX_C",
+      "toClass": "/Game/ASA/Dinos/Archa/Archa_Character_BP.Archa_Character_BP_C"
+    },
+    {
+      "fromClass": "/Game/Mods/DinoOverhaulX/Dinos/Herbivores/DungBeetle_Character_BP_DOX.DungBeetle_Character_BP_DOX_C",
+      "toClass": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP_C"
+    },
+    {
+      "fromClass": "/Game/Mods/DinoOverhaulX/Dinos/Herbivores/Achatina_Character_BP_DOX.Achatina_Character_BP_DOX_C",
+      "toClass": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C"
+    },
+    {
+  "dinoMappings": [
+    {
+      "fromClass": "/Game/Mods/DinoOverhaulX/Dinos/Herbivores/Archelon_Character_BP_ASA_DOX.Archelon_Character_BP_ASA_DOX_C",
+      "toClass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA_C"
+    },
+    {
+      "fromClass": "/Game/Mods/DinoOverhaulX/Dinos/Predators/Bee_Queen_Character_BP_DOX.Bee_Queen_Character_BP_DOX_C",
+      "toClass": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C"
+    },
+    {
+      "fromClass": "/Game/Mods/DinoOverhaulX/Dinos/Aberrant/Achatina_Character_BP_Aberrant_DOX.Achatina_Character_BP_Aberrant_DOX_C",
+      "toClass": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant_C"
+    },
+    {
+      "fromClass": "/Game/Mods/DinoOverhaulX/Dinos/Aberrant/DungBeetle_Character_BP_Aberrant_DOX.DungBeetle_Character_BP_Aberrant_DOX_C",
+      "toClass": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant_C"
+    }
+  ]
+}
